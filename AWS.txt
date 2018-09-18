@@ -1,0 +1,57 @@
+
+Consolidated billing.
+Cross Account Access.
+AWS Directory Service.
+CloudHSM, DDoS(Distributed Denial of service) and IPS/IDS.
+Direct connect.
+
+
+
+Deploying scalable applications
+Storing static content
+Creating reproducible infrastructure.
+Using managed databases.
+
+
+
+cost and scalability:
+server, db, plugins, room.
+ calculators.
+ growth may drop out.
+ 
+ deploy globally?
+ Reduced Latency(time it takes to cover the geographic distance). time it takes to get connected from different parts of the globe.
+ Increased Redundancy.
+ 
+Core Services ;
+--Elastic cloud compute(EC2) - computing.
+endlessly versatile resource that can be used of anything(run application located in the cloud, use as a virtual desktop, 3rd party software).
+expand and contract when needed.
+basic unit, virtual machine.
+robust tool which adds eccessive no of user
+
+--simple Storage Service(S3) - serving static files, static file hosting service used in conjuction with ec2.
+
+--Relational database Service (RDS)- database needs
+
+--Routes53 -domain name and opening you to the real world.
+impowers the ec2 services & S3 buckets to be accessable.
+
+Elastic Beanstalk-application run on ec2 instance.
+application deployment and management services.
+
+DynamoDB-NoSql db solution
+Unlimited, Elastic Storage,
+No hardware choices, Pay only for what you use,
+core stucture is table---
+Pk,sk.
+
+Redshift-data ware house solution.
+simplifies configuration and infrastructure needed for performing  a highly performed and cost effective users.
+clusters
+
+
+Virtual Private Cloud-secure, instances, use to organize and control access to aws resources.free.
+CloudWatch-edge ur file in conjunction with S3.
+CloudFront-alarm for instance are down.Content delivery network.
+
