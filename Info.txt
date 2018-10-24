@@ -1,0 +1,79 @@
+ Personal Details
+
+EFXLogin: vxp142
+WorkerID: E90049511 
+EMAIL_ADDRESS: varnika.priydarshini@equifax.com 
+EMPLOYEE_ID: 114791
+EMPLOYEE_NUMBER: E90049511 
+FULL_NAME: PRIYDARSHINI, VARNIKA 
+IIQDisabled: false 
+PASSWORD_DATE: 5/24/2018 0:0:0 AM UTC 
+PASSWORD_EXPR: Days 
+PASSWORD_NO_OF_DAYS: 90 
+RESPONSIBILITIES: Oracle Financials - OTL Timecard
+Equifax USD START_DATE: 2018/05/24
+USER_ID: 40490
+USER_NAME: VARNIKA.PRIYDARSHINI
+
+Mnbvcxz@25
+Project Id:104967,
+	   104895 (USIS-2018-BlackDmnd-InternSupp)
+	   Task #5 – Buffer Resource Tracking
+
+GHTWHTs@25--otl
+Sanasri@25--jira/confluence/bitbucket
+GHTWHTs@25---Microsoft Outlook
+25Sept@2017--Login 
+25@Octobr-UST
+
+Links----
+
+adp
+https://www.ess.adp.in/ESS4/Default.aspx
+Ust@25
+
+JTL
+https://portal.myvantageconnect.co.in/#/Home
+USTU60410-userid
+Sanasri@25-JTL
+
+ORION
+https://orion.ust-global.com/psp/HR89PRD/?cmd=login&languageCd=ENG
+
+UST MAIL
+https://outlook.office.com/owa/?realm=ust-global.com&vd=cloudmail&path=/mail/inbox
+
+
+timesheet
+https://ust.digite.com/digite/
+
+svn link
+http://aict1lc9a148.app.c9.equifax.com/svn/repos/containers/interconnect/
+
+dishTV
+http://localhost:9090/echostar-web-module.war/login/login.jsf
+
+github
+priydarshinivarnika
+sanasri1990
+
+mfa
+https://mfa.ust-global.com/
+25@Septmb
+Question 1
+In what city or town was your first job? 
+Answer hyderabad
+ 
+Question 2
+Which is your place of birth?
+Answer gorakhpur
+ 
+Question 3
+What was the name of your first school?
+Answer littleflower
+ 
+Question 4
+What is your favorite place?
+Answer switzerland
+ 
+ 
